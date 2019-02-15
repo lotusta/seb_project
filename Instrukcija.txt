@@ -1,5 +1,5 @@
 Instrukcija:
-1.	Subuildinta applikacija gali buti paleista per cmd su užklausa: java -jar IBAN-check-0.0.1-SNAPSHOT.jar
+1.	Subuildintas ir sukomitintas jar gali buti paleistas per cmd su užklausa: java -jar IBAN-check-0.0.1-SNAPSHOT.jar
 2.	Programa dirba dviem režimais:
 	a.	Pažymejus checkbox „IBAN check from file“, tikrinimi IBAN, esantys failuose. 
 		Failo kelias gali buti ivedamas i textbox arba pasirenkamas, paspaudus mygtuka „Choose IBAN file“. 
